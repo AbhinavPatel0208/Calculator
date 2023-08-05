@@ -1,0 +1,22 @@
+.text-center{
+  text-align: center;
+  color: rgba(233, 233, 233, 0.764);
+  
+  font-size: 40px;
+}
+
+.max-auto{
+  margin: auto;
+}
+
+.flex{
+  display: flex;
+}
+
+.flex-col{
+  flex-direction: column;
+}
+.items-center{
+  align-items: center;
+ 
+}
